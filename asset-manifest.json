@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hemanth_portfolio/static/css/main.d7da34c1.css",
+    "main.js": "/hemanth_portfolio/static/js/main.97923627.js",
+    "static/media/logo4.png": "/hemanth_portfolio/static/media/logo4.2e54e24b75f1a17b1d29.png",
+    "index.html": "/hemanth_portfolio/index.html",
+    "main.d7da34c1.css.map": "/hemanth_portfolio/static/css/main.d7da34c1.css.map",
+    "main.97923627.js.map": "/hemanth_portfolio/static/js/main.97923627.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.97923627.js"
+  ]
+}
